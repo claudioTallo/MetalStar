@@ -1,0 +1,9 @@
+Buenas!
+
+La idea del videojuego era crear una amalgama entre MetalSlug, 
+con su jugabilidad de alternar armas y vehículos, pero con la temática y ambientación de starcraft.
+
+En un principio tendría solo la campaña humana (terran)
+Y luego tendria las campañas Zerg y Protoss.
+
+Gracias y saludos!
